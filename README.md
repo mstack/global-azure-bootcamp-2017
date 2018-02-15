@@ -1,4 +1,4 @@
-# Global Azure Bootcamp 2017                                  
+# Global Azure Bootcamp 2018                                  
 ![Global Azure Bootcamp][3]
 
 
