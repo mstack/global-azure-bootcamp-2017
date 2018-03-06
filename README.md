@@ -7,7 +7,7 @@
 The Global Azure Bootcamp workshops can be found here:
 
 
-1. [Introduction to Azure DocumentDB](https://github.com/mstack/bootcamp-azure-documentdb)
+1. [Introduction to Azure Cosmos DB](https://github.com/mstack/bootcamp-azure-cosmosdb)
 
 2. [Introduction to Azure Functions](https://github.com/mstack/bootcamp-azure-functions)
 
